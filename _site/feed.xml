@@ -1,40 +1,221 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Feb 2015 19:12:27 -0500</pubDate>
-    <lastBuildDate>Mon, 16 Feb 2015 19:12:27 -0500</lastBuildDate>
+    <title>UMD Perspectives</title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 16 Feb 2015 19:26:09 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2015 19:26:09 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
+        <title>No. 9</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I think that the thing I value most in life is free will. I think that people should be able to make their own decisions without interference from anybody else. A lot of people ask why I say this (I’m libertarian), but I’m just scared of being controlled. I don’t like the idea of being controlled, and I don’t want the government controlling my decisions. I’d honestly have an anarchy rather than a communist institution. An example gay marriage. I support the legalization of it, but I personally don’t support it. I wouldn’t personally do it and I wouldn’t advise someone to do it, because it goes against my religious beliefs, but if some other adult wanted to do it, who am I to say no? That’s another thing, it’s sort of like playing God. If people ask me if it’s right, I’ll tell them what I think, but at the end of the day, they’re entitled to their own decisions, and I can’t force them into not doing something, because that is inhibiting their free will. I feel like a good Christian whould not force people to do things that the Bible tells you  to do, but instead, inform them peacefully and thoroughly why you believe it is right biblically. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I would say, maybe on a more worldly level, financial stability. Not necessarily rich, but living comfortably within my means would be successful. Living a more biblically correct life, closer to what Jesus would do, you know?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I think I’ve already covered my goals in what I’ve said in the previous question. I kind of want to get involved in politics, maybe purport my view of free will. You can’t run a political platform on that, just promote free will through the values and policies that I come up with.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 </description>
-        <pubDate>Mon, 16 Feb 2015 14:06:47 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/02/16/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/02/16/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 16 Feb 2015 00:00:00 -0500</pubDate>
+        <link>/2015/02/16/post9.html</link>
+        <guid isPermaLink="true">/2015/02/16/post9.html</guid>
         
         
-        <category>jekyll</category>
+      </item>
+    
+      <item>
+        <title>No. 8</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Life’s an adventure. If you take control of what you want to do with your life, it’ll be such a wonderful experience. If you know what you want and you take the steps to achieve it then you can do great things and live a very satisfactory life. It’s really about having a vision of what you want to be and taking charge to complete yourself.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I already feel successful in a many ways. I don’t think I’ll ever truly be satisifed until I have a monkey and a sailboat. People make arbitrary life goals, and once they achieve them, they say, “Oh I’ve been working so hard and now I have this task completed”, but that doesn’t necessarily make you happy. I have a very open-ended view on what i want to be, theres no way I could categorize myself by one definate vision of success. Specifically I want to create a robotics company. That’s big for me. But really, I see that as a career goal, and a life goal to, but I couldn’t just have that and be happy. I wouldn’t feel alive if I didn’t have a sense of adventure.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Find happiness. Just lasting happiness, really. I want to create something that people will say “wow, that’s cool”, that’s one of the biggest things. I want to inspire people with technology. I definitely want to be free and never feel nailed down to things because of money, allow myself to travel the world really, have major adventures, meet awesome people, and… a monkey. There are a lot of things that I think would be great to work on, but it depends on what I end up focusing on. For example, changing the education system woudl really improve things for a lot of people. Changing the political climate too, I feel like there needs a much more logical and fast-paced political system, a different political climate. Those are my thoughts on the US. It doesn’t seem like things are being done in a very planned or logical way.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 16 Feb 2015 00:00:00 -0500</pubDate>
+        <link>/2015/02/16/post8.html</link>
+        <guid isPermaLink="true">/2015/02/16/post8.html</guid>
         
-        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>No. 10</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I wanna say, “treat others how you want to be treated”, but that’s cheesy. I think you should give and expect nothing in return.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I would feel successful right after graduating college, because I will have gone through many internships and experienced a real-life world. Basically what I would say success is, being able to live a stress free, happy life, while providing for yourself. And, having close relationships with people you can depend on.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Marry rich and die young haha just kidding. Probably, gradauate from college. Find a stable job that I enjoy doing. Start a fami - travel the world, then start a family. Oh, also those are like my main goals. I’d also like to help those in need and those who have helped me in the past. I want to be someone that people can depend on, and go to when they need advice.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 16 Feb 2015 00:00:00 -0500</pubDate>
+        <link>/2015/02/16/post10.html</link>
+        <guid isPermaLink="true">/2015/02/16/post10.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>No. 7</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I think life is, as they say, a marathon. It’s a series of events, and moments, and lesson learned, all ending up to be a great experience and whatever you make of it. I think life is meant to be lived like art, I think you should try your best to bring out as much beauty from the world as you can, see as much as you can, share as much of what you have with the world. I think it’s really just a journey and every day is just something to experience. Throughout your life you find what you’re good at or passionate about so that you can create something that’ll allow you to live forever. There are no rules to life. People expect that they’re supposed to do this or that at a certain age, but everyone has their own path. That needs to be embraced more. I think the most important thing in life is to love people. Love your family, friends, what you’re doing, where you are, what you have already. It’s about being appreciative of what you have and not comparing that to what you want, not putting importance on material things or jobs. It’s really just about appreciating where you are right now.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Success to me, like an overall life success, is being able to sit down, relax, and breathe because I’ve done all of what I’ve set out to do - so much so that everything else feels like extra at that point.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;My goals include everything from… I just want to design as much as possible. Designing as much as possible, living in different countries, getting paid just do art, whatever art I want to do. I want to buy my mom a ranch house. I want to create a mural with inner city kids. I want to show the world the real value of art, allow them to experience art in ways that they’ve never had before. I’d like to make life as beautiful as possible for as many people as possible. I want to finish building this camera. I want to exercise and eat healthy every single day, find ways to allow healthy eating to people that don’t have as easy access to it. I’d like to get my own farm and grow my own food. I want to teach and to create a beautiful family.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 14 Feb 2015 00:00:00 -0500</pubDate>
+        <link>/2015/02/14/post7.html</link>
+        <guid isPermaLink="true">/2015/02/14/post7.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>No. 6</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I want to make the world a better place. I think the world is a beautiful place. We just have to learn to support each other, to make it much better than it is today. I think everybody deserves an equal opportunity to be successful. If people are willing to work hard, then I don’t see why others shouldn’t give them that opportunity. What I find today in most of us, is that we are very selfish. We want the best for ourselves. But selfishness doesn’t help in the long run - it might be satisfying in the short run - but in the long run it doesn’t help. If you lose all that you have but you’ve been selfish then you find that there’s no one to help when you’re in need. So why do I say people are selfish today? You find parents who don’t care who their children will grow up to be. They don’t invest. Once the tables turn and the parents grow old, they have no one to fall back on - there is no progress and support in the family. But if the parents are unselfish and willing to support their children as much as possible, and there is progress in the family. Once there is progress in the family, there is progress in the community, and therefore, progress in the nation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;My definition of success is when I’m at a point where I am fully independent and I can support my family. That’s it, there’s no greater success than that. That’s success for me.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;My goals. First I’d like to graduate college. That’s my priority right now - with good grades. I’d like to first work for a company that will help show me how to adapt to a professional setting as opposed to a school setting, to develop my skills much faster, to transfer my skills from school to the workforce. Then I’d like to become a full time entrepreneur. The problem is, I’m torn in between the two - whether to just start my own business during or right after college, or follow through with an employment. My other other goal is to have a family of my own and to be happy with someone else, my better half. I want to have good networks and make good friends, to travel, to enjoy the world.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 14 Feb 2015 00:00:00 -0500</pubDate>
+        <link>/2015/02/14/post6.html</link>
+        <guid isPermaLink="true">/2015/02/14/post6.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>No. 5</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I think really positively about life, I try to see the best in people. I see people in terms what they can do, not what they can’t do. I feel like there’s a lot of opportunity. I try to appreciate what I have because I’m fully aware of my situation. I know there a lot of people in the world that don’t have anything close to what I have. You can see this both materially and in other areas, like relationships. I’m a compassionate person, I can understand what people are thinking, so I can understand them better. A lot of things are devastating, but then I know that there’s a lot of joy. Sometimes I see the world in black and white, but other times I see it very vibrantly, like spray paint or graffiti art.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I would call myself successful if I influenced people in some way, or something I did had a positive impact. I’m successful if I’m fully self aware. I also want to live for myself and provide for myself. To me success is achieving something I’m proud of, to even the extent of simply getting to class on time, ranging to raising meaningful funds or creating a successful brand.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’d like to understand people from all around the world, and gain perspective on as many cultures as I can. Ultimately I want to be able to understand where people come from and not have prejudice, and in order to do that I have to understand the culture. I want to reach the limit of my creativity and see how far it will take me. I want to be happy. I want to make others happy. I’d also like to stay in love with bæ ;)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 14 Feb 2015 00:00:00 -0500</pubDate>
+        <link>/2015/02/14/post5.html</link>
+        <guid isPermaLink="true">/2015/02/14/post5.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>No. 4</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I see that there’s a lot of chaos, a lot of wars, a lot of conflict. I don’t want to be too pessimistic, but yeah, there’s a lot. There’s also a lot of injustice. I’m in a position of privilege where I don’t have to deal with as much poverty, and war, etc… so it’s tricky to judge. I would say I am lucky to be in the position that I am. Right now, I feel that I’m not contributing improving the overall situation of the world. There is a dual purpose: one is to get by, and the other to improve things. And since I’m an engineer I guess I can contribute to the wellness of the world but right now it’s not happening. I’m still a student and I’m still figuring out how to graduate and get by, and I have to do this before I move on. But definitely at some point I want to contribute back to society.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I would say that I am successful, because I don’t think that I’ve failed. I’d say that I’m succeeding. I am here at the university and I’m part of the PhD program. I’m progressing towards my goals, so I can see myself as successful. I mean, I don’t have a million dollars, but I think I’m successful. You don’t have to be rich to be successful. I’m always at the edge because I’d like to do better, but I’m optimistic about things improving overall.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Finish my PhD. That’s my first priority. I’d like to have a career in which I can make creative things, interesting things. I want to have time for my family, visit interesting places, interesting people. I’d like to have some security for retirement, so that when I can no longer work I can still continue living a peaceful life. I hope not to become a burden to my family and society, to still be able to sustain myself.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 14 Feb 2015 00:00:00 -0500</pubDate>
+        <link>/2015/02/14/post4.html</link>
+        <guid isPermaLink="true">/2015/02/14/post4.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>No. 3</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I believe that there is no one perspective. I believe that people should be open-minded to all perspectives. A general guideline is to be as happy as possible, because you never know when it’ll be taken away. Make the most even of the smallest things.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’m not yet successful. Being successful is having that one predominant goal in life and accomplishing it. Your perspective changes as you get older. And, the definition of success changes with your perspective, so I feel like the older you get, you don’t actually get to achieve your initial goal unless you make yourself stick to it. When people grow up during high school, college, everybody has visions, but everybody settles more or less for the same way of living.  I want to contribute something to this world, with meaning, that will be remembered for generations. I want to make sure that my life was more special than these masses, to put out more than the majority of people.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;One goal is obviously to reach that success, another is to, when I look back at my life, be proud of it. It’s not so much that I don’t want any regrets. I want to really know that I’ve lived my life to the point where I couldn’t have squeezed any more out of it. It’s very cliche, but you want to make sure that you’re happy. Of course you’re going to have your down moments, but when you look back at your life you want to see that you’ve lived it for yourself, and not somebody else’s idea, so that what you’ve done is what you were truly passionate about.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 14 Feb 2015 00:00:00 -0500</pubDate>
+        <link>/2015/02/14/post3.html</link>
+        <guid isPermaLink="true">/2015/02/14/post3.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>No. 2</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I think the most important question for anyone to ever answer is, on what basis are you going to make your decisions. For a lot of people that translates to “what do you believe in” or “what’s important to you”. It really boils down to what determines how you make your decisions - in what you believe, in what you think, in what you do. I don’t think I’m 100% unique in this, obviously, but you know, God’s moral standard is what I want to be a determining factor in how I live. I’ve done a lot of looking for a moral standard, and I’ve found God’s moral standard to be in the Bible. I believe everything and everyone has a purpose, and a purpose greater than just what we make it out to be. A designer, a creator, is, I would say, self-evident, to put it bluntly - it’s obvious. I think everything works towards that end -accomplishing the purpose for which it was made. Then you ask the question - what is that purpose? The answer to that I find in the Bible. I haven’t found those answers anywhere else.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’m gonna have to say, (as I mentioned before), how I process life is through the lens that I just mentioned. It’s never been money or screwing biddies on the low, fame, fortune, it’s never been any of that. It’s always been impact on people. Just positive impact on people. And the kind of impact that I want to make on people, is the kind that I was made for, the kind that everyone was made for. Again, I find that in the Bible. My succinct answer would be to quote Jesus himself, in how he summed up the entire Bible: “Love the Lord, your God with all of your heart, soul, mind, strength” and “Love your neighbor as yourself”. This is what I’m building my life on.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I want to create things, I want to be a creator. From businesses to inventions to robots. I just wanna build things and solve problems. That’s like an innate desire of mine, and it’s been like that for a long time. And I know that in doing that, I’m being an imitator of God. I believe I was made in the image of God, and one of the strongest attributes of Him that I see most strongly in my life is the ability and desire to create and solve problems. I have a huge heart for the developing world. Visiting Zambia really changed my perspective. Before Zambia I wanted to be a computer engineer and build artifical intelligence systems for the military, but after seeing how little other people have (I know this can sound cliche) I felt that my time was best spent working to help others than to get more and more for myself when I already have more than I need. I mean, a large salary is nice, but why not spend your time empowering those less fortunate and marginalized?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 14 Feb 2015 00:00:00 -0500</pubDate>
+        <link>/2015/02/14/post2.html</link>
+        <guid isPermaLink="true">/2015/02/14/post2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>No. 1</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I have a Christian biblical perspective. I believe that humans are placed on Earth for glorifying their creator.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;With regards to success, I’m currently in progress. For my worldview, I’m figuratively walking the path that God set for me. I’m achieving success through following God’s path.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I would define my goals as two categories: my ultimate goal, no matter what my plans are, is to fulfill God’s plan for my life. But, since I don’t necessarily have a timeline of what I’m going to do, my personal goals would be to have a stable job (that I enjoy), where I feel like I’m making some kind of difference, and to have a healthy happy family, be a healthy active person, and to have a balanced life.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 14 Feb 2015 00:00:00 -0500</pubDate>
+        <link>/2015/02/14/post1.html</link>
+        <guid isPermaLink="true">/2015/02/14/post1.html</guid>
+        
         
       </item>
     
